@@ -21,14 +21,14 @@ Sound - try use values at notes for good effect.
 
 ## Used details
 
-| Number | Detail                    | appointment            |
-| -------|:-------------------------:| ----------------------:|
-| 1.     | Arduino Uno R3            |                        |
-| 2.     | tcs3200                   | Color recognizion      |
-| 3.     | Passive buzzer module     | Sound                  |
-| 4.     | Cables                    |                        |
-| 5.     | Pieces of color paper     | For testing            |
-| 6.     | Arduino Shield Prototype.5| For red LED and button |
+| №  | Detail                    | appointment            |
+| ---|:-------------------------:| ----------------------:|
+| 1. | Arduino Uno R3            |                        |
+| 2. | tcs3200                   | Color recognizion      |
+| 3. | Passive buzzer module     | Sound                  |
+| 4. | Cables                    |                        |
+| 5. | Pieces of color paper     | For testing            |
+| 6. | Arduino Shield Prototype.5| For red LED and button |
 
 ### Improvised scheme
 ![Image alt](https://github.com/mskKote/Arduino-Color-Sound/raw/master/Scheme.jpg)
