@@ -2,10 +2,7 @@
 Projects for Scientific Research Seminar at HSE.
 
 ### Look at this beauty!
-![Image alt](https://github.com/mskKote/Arduino-Color-Sound/raw/master/look.png)
-
-### Improvised scheme
-![Image alt](https://github.com/mskKote/Arduino-Color-Sound/raw/master/scheme.png)
+![Image alt](https://github.com/mskKote/Arduino-Color-Sound/raw/master/look.jpg)
 
 ## How does it work?
 
@@ -33,6 +30,5 @@ Sound - try use values at notes for good effect.
 | 5.     | Pieces of color paper     | For testing            |
 | 6.     | Arduino Shield Prototype.5| For red LED and button |
 
-## Programms
-
-Arduino IDE and library tcs3200.h
+### Improvised scheme
+![Image alt](https://github.com/mskKote/Arduino-Color-Sound/raw/master/Scheme.jpg)
