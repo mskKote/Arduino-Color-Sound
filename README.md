@@ -21,7 +21,7 @@ Sound - try use values at notes for good effect.
 
 ## Used details
 
-| №  | Detail                    | appointment            |
+| №  | Detail                    | Purpose                |
 | ---|:-------------------------:| ----------------------:|
 | 1. | Arduino Uno R3            |                        |
 | 2. | tcs3200                   | Color recognizion      |
@@ -32,3 +32,7 @@ Sound - try use values at notes for good effect.
 
 ### Improvised scheme
 ![Image alt](https://github.com/mskKote/Arduino-Color-Sound/raw/master/Scheme.jpg)
+
+### cover
+![Image alt](https://github.com/mskKote/Arduino-Color-Sound/raw/master/cover.jpg)
+It was created by https://github.com/D1scoDancer
